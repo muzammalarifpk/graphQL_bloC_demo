@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
             ),
           ],
           child: MaterialApp(
-            title: 'GitHub Repositories',
+            title: 'GraphQL demo by Muzammal Shaikh',
             theme: ThemeData(
               primarySwatch: Colors.blue,
             ),
