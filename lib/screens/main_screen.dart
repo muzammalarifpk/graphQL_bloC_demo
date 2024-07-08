@@ -23,7 +23,7 @@ class _MainScreenState extends State<MainScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('GitHub Repositories'),
+        title: const Text('GraphQL demo by Muzammal Shaikh'),
       ),
       body: Column(
         children: [
